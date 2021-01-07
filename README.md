@@ -30,5 +30,9 @@
   ## 사용한 알고리즘(Algorithm)
   ![picture1](https://user-images.githubusercontent.com/61834644/103893729-1f946b80-5131-11eb-86dd-99016a2ebb75.jpg)
   
+  ## 사용한 폴더
+* drawable   
+  * 앱을 만들 때 사용한 옷 이미지와 버튼 이미지, 그 외에 필요한 이미지들을 올려놓았음
+  
   
   
